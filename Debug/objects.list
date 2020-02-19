@@ -1,0 +1,5 @@
+"Drivers/Src/stm32f103xx_GPIO_drivers.o"
+"Src/main.o"
+"Src/syscalls.o"
+"Src/sysmem.o"
+"Startup/startup_stm32f103c8tx.o"
